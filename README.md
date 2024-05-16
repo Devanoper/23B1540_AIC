@@ -1,5 +1,3 @@
-# 23B1540_AIC
-assignment submission of AIC IITB
 ## References
 * Basic ML : Hands-On Machine Learning by Geron Aurelien 
            Chapters 1 & 2
