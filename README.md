@@ -1,4 +1,4 @@
-##T_Q2
+## T_Q2
 * a how-to-use.md file is attached
 * an improvements.md file is attached
 
