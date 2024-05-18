@@ -1,3 +1,9 @@
+##T_Q2
+* a how-to-use.md file is attached
+* an improvements.md file is attached
+
+
+
 ## References
 * Basic ML : Hands-On Machine Learning by Geron Aurelien 
            Chapters 1 & 2
