@@ -7,3 +7,4 @@
 * Convulational Neural Networks (CNN) : Hands-On Machine Learning by Geron Aurelien 
                                       Chapters 10, 11 and 14
 * https://machinelearningspace.com/coco-dataset-a-step-by-step-guide-to-loading-and-visualizing/
+* LangChain docs
