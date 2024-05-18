@@ -74,3 +74,25 @@ Ethical NOTE :) : All the data can be anynymous
 * **Cloud Platform:** Utilize cloud computing services like AWS, Azure, or Google Cloud.
 * **GPU Acceleration:** Use GPU instances for faster model training and inference (especially for deep learning).
 * **Software Tools:** Python libraries (pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Flask).
+
+
+# Q2
+## SOP : AI Community
+
+My journey into the world of Artificial Intelligence began with an assignment for the AI Community. While I initially had only a basic understanding of Machine Learning, the assignment propelled me to dive deep into the intricacies of the field. Though I couldn't solve Question 1, the struggle itself ignited a passion within me. It made me realize the immense potential of AI to revolutionize our world and I was hooked.
+
+I'm fascinated by the ability of algorithms to learn from data and make predictions. I'm particularly interested in the applications of AI in enhancing student life at IIT Bombay. Imagine a system that predicts course difficulty based on student feedback or a chatbot that helps students navigate the campus.
+
+Joining the AI Community allows me to bridge the gap between my nascent knowledge and the real-world applications of AI. I'm eager to collaborate with like-minded individuals, learn from their expertise, and contribute to the development of innovative projects that benefit the student community.
+
+This is my first step towards a future where I can leverage AI to build a better tomorrow, starting right here at IIT Bombay.
+
+My goal is to leverage AI and ML to develop practical solutions for the campus community. I envision projects that address common student needs, such as:
+
+**1. Smart Course Recommendation System:** Leveraging student data and course descriptions, we could develop an intelligent system that recommends courses based on individual interests and academic goals. This could significantly improve course selection and academic planning.
+
+**2. PYQ analyser :** Imagine a chatbot that analyses PYQs and provides tailored questions, personalized learning materials, and even interactive quizzes. This could enhance student engagement and improve academic performance.
+
+**3. Event Management Assistant:** Utilizing AI for analyzing student preferences and optimizing event schedules could create a seamless and efficient event management platform for various campus organizations.
+
+Beyond these initial ideas, I'm excited to explore the vast possibilities of AI for enhancing campus life
