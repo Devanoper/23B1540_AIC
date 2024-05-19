@@ -81,8 +81,7 @@ print(f'Predicted Class: {predicted_class_name}')
 
 * This model is trained on the VOC 2007 dataset, which contains 20 classes.
 * The model expects an input image of size 256x256 pixels.
-* The model will predict a single object class and its bounding box.
-* The bounding box coordinates are normalized and range from 0 to 1.
+* The model will predict a single object class
 
 **Example:**
 
