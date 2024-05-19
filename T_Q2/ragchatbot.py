@@ -4,9 +4,9 @@ from langchain.document_loaders import TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings
 
 class ChatBot():
-    os.environ['PINECONE_API_KEY'] = 'ca849d1c-4b47-41d5-a2b1-569bd8f538e9'
-    os.environ['HUGGINGFACE_API_KEY'] = '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'
-    loader = TextLoader("ugrulebook.txt", encoding = 'UTF-8')
+    os.environ['PINECONE_API_KEY'] = 'ca849d1c-4b47-41d5-a2b1-569bd8f538e9' # change this to your key
+    os.environ['HUGGINGFACE_API_KEY'] = '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' # change this to your key
+    loader = TextLoader("ugrulebook.txt", encoding = 'UTF-8') # change this file for your file
     documents = loader.load()
     text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=4)
     docs = text_splitter.split_documents(documents)
@@ -51,7 +51,7 @@ class ChatBot():
       huggingfacehub_api_token=os.getenv('HUGGINGFACE_API_KEY')
     )
     from langchain import PromptTemplate
-
+    # change this acc to your needs
     template = """
     You are an academic councillor . The user will ask you queries about academic infrastructure or academic
     policies. Answer in a formal way and keep it precise
