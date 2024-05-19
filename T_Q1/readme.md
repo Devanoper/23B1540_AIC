@@ -5,7 +5,7 @@ NOTE: For some reason these files are refusing to show properly in github , you 
 
 ## HOW-TO-USE
 
-. The model can be used to classify and locate a single object within an image.
+The model can be used to classify a single object within an image.
 
 **Requirements:**
 
