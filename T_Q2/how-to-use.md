@@ -14,7 +14,6 @@ install these dependencies using pip
 * replace titles in runner.py , currently they are acadmeic councillor
 
 ## final run
-* in the command terminal of the T_Q2 directory , write 'python'
-  then 'streamlit run runner.py' , the chatot should open in your default browser
+* in the command terminal of the T_Q2 directory , write 'streamlit run runner.py' , the chatot should open in your default browser
 NOTE : It may take 1-2 mins if your txt file is large , as in the case of ugrulebook
 
