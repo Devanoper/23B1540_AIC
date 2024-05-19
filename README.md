@@ -12,8 +12,8 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/voc2007-singleobject-detection.git
-cd voc2007-single-object-detection
+git clone https://github.com/Devanoper/23B1540_AIC.git
+cd 23B1540_AIC
 ```
 
 2. **Install required packages:**
