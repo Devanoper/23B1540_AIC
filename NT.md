@@ -79,7 +79,7 @@ Ethical NOTE :) : All the data can be anynymous
 # Q2
 ## SOP : AI Community
 
-My journey into the world of Artificial Intelligence began with an assignment for the AI Community. While I initially had only a basic understanding of Machine Learning, the assignment propelled me to dive deep into the intricacies of the field. Though I couldn't solve Question 1 properly, the struggle itself ignited a passion within me. It made me realize the immense potential of AI to revolutionize our world and I was hooked.
+My journey into the world of Artificial Intelligence began with the assignment for the AI Community. While I initially had only a basic understanding of Machine Learning, the assignment propelled me to dive deep . Though I couldn't solve Question 1 properly, the struggle was a learning experience . It made me realize the immense potential of AI to revolutionize.
 
 I'm fascinated by the ability of algorithms to learn from data and make predictions. I'm particularly interested in the applications of AI in enhancing student life at IIT Bombay. Imagine a system that predicts course difficulty based on student feedback or a chatbot that helps students navigate the campus.
 
