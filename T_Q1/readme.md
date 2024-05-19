@@ -25,9 +25,9 @@ pip install tensorflow tensorflow-datasets numpy matplotlib
 **Usage:**
 
 1. **Download the model:**
-Download the model file `voc2007_single_object_model.keras` from this repository.
+Run the ipynb fill till the model.save code runs which will Download the model file `voc2007_single_object_model.keras` from this repository.Since the size limit of github , I couldn't upload the .keras model directly 
 
-2. **Load the model:**
+3. **Load the model:**
 ```python
 import tensorflow as tf
 from tensorflow.keras.models import load_model
