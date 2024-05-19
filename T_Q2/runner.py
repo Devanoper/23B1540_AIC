@@ -5,7 +5,7 @@ bot = ChatBot()
 
 st.set_page_config(page_title="RAGBOT")
 with st.sidebar:
-    st.title('Academic Assistant')
+    st.title('Academic Assistant') # can change this
 
 
 # Function for generating LLM response
@@ -16,7 +16,7 @@ def generate_response(input):
 
 # Store LLM generated responses
 if "messages" not in st.session_state.keys():
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome, let's unveil your future"}]
+    st.session_state.messages = [{"role": "assistant", "content": "Welcome"}] 
 
 # Display chat messages
 for message in st.session_state.messages:
