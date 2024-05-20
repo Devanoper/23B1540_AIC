@@ -54,7 +54,7 @@ class ChatBot():
     # change this acc to your needs
     template = """
     You are an academic councillor . The user will ask you queries about academic infrastructure or academic
-    policies. Answer in a formal way and keep it precise
+    policies. Answer in a formal way and keep it precise. You can also answer general queries apart from counselling.
     
     Context: {context}
     Question: {question}
