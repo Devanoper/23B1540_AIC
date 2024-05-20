@@ -3,6 +3,10 @@ install these dependencies using pip
 * langchain
 * pinecone-client
 * streamlit
+* langchain-pinecone
+* langchain-community
+* sentence-transformers
+* **OR** : download requirements.txt file and run command 'pip install -r requirements.txt'
   
 ## API keys
 * make account on Huggingfaces and generate token , replace HUGGINGFACE API KEY with your token in ragchatbot.py
