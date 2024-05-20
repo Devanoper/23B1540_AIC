@@ -1,0 +1,6 @@
+langchain
+pinecone-client
+streamlit
+langchain-pinecone
+langchain-community
+sentence-transformers
